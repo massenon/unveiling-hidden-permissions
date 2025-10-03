@@ -4,7 +4,7 @@ This repository contains the Python implementation of the framework described in
 
 ## Overview
 
-The system analyzes user reviews from AI-powered mobile apps and correlates them with the permissions declared in the app's manifest. The goal is to automatically identify and prioritize "hidden permissions"—declared permissions whose purpose is opaque or confusing to users, leading to privacy concerns.
+The system analyzes user reviews from AI-powered mobile apps and correlates them with the permissions declared in the app's manifest. The goal is to automatically identify and prioritize "hidden permissions" declared permissions whose purpose is opaque or confusing to users, leading to privacy concerns.
 
 ## Features
 
