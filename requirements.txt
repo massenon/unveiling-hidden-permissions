@@ -1,0 +1,16 @@
+# For NLP and Machine Learning
+transformers[torch]
+scikit-learn
+spacy
+
+# For data handling
+pandas
+numpy
+
+# For Android APK analysis
+androguard
+
+# For web scraping and text processing
+langdetect
+beautifulsoup4
+requests
